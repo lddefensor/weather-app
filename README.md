@@ -24,7 +24,7 @@ And the Require JS:   <br />
 
 Main.JS contains the configuration of requireJS
 
-Use the directive <weather-app></weather-app> to launch the Weather Application <br />
+Use the directive &lt;weather-app&gt;&lt;/weather-app&gt; to launch the Weather Application <br />
 
 ##Issues
  getCurrentPosition() and watchPosition() no longer work on insecure origins. To use this feature, you should consider switching your application to a secure origin, such as HTTPS. See https://goo.gl/rStTGz for more details. <br />
