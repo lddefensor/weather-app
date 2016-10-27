@@ -11,16 +11,16 @@ Uses bootstrap.css for styles
 Uses Erik Flower's weather-icons https://erikflowers.github.io/weather-icons, for displaying different weather conditions
 
 ##Usage
-include 'weatheApp' as dependencies in your angular app
-Include the following css: 
-&lt;link rel="stylesheet" href="js/weather/css/auto-detect-location.css"&gt;  
-&lt;link rel="stylesheet" href="js/weather/css/get-location.css"&gt;  
-&lt;link rel="stylesheet" href="js/weather/css/open-weather-app.css"&gt;  
-&lt;link rel="stylesheet" href="js/weather/css/weather-app.css"&gt;  
-&lt;link rel="stylesheet" href="js/weather/css/bootstrap.css"&gt;  
+include 'weatheApp' as dependencies in your angular app  <br />
+Include the following css:   <br />
+&lt;link rel="stylesheet" href="js/weather/css/auto-detect-location.css"&gt;  <br />
+&lt;link rel="stylesheet" href="js/weather/css/get-location.css"&gt;    <br />
+&lt;link rel="stylesheet" href="js/weather/css/open-weather-app.css"&gt;    <br />
+&lt;link rel="stylesheet" href="js/weather/css/weather-app.css"&gt;    <br />
+&lt;link rel="stylesheet" href="js/weather/css/bootstrap.css"&gt;    <br />
 
-And the Require JS: 
-&lt;script data-main="js/main.js" src="js/libs/require.js"&gt;&lt;/script&gt;
+And the Require JS:   <br />
+&lt;script data-main="js/main.js" src="js/libs/require.js"&gt;&lt;/script&gt;  <br />
 
 Main.JS contains the configuration of requireJS
 
